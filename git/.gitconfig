@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = YeungYeah
+	email = 407284292@qq.com
+[core]
+	editor = vim
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
+[https "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
